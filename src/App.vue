@@ -1,7 +1,7 @@
 <template>
   <div class="app">
 
-    <h1>L3SOD B Timetable</h1>
+    <h1>L3SODB Timetable 26</h1>
 
     <!-- Monday -->
     <div class="day-box">
